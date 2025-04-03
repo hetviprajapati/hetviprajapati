@@ -5,7 +5,6 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Gujarat, India
-* ✉️  You can contact me at [hetviprajapati114@gmail.com](mailto:hetviprajapati114@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
